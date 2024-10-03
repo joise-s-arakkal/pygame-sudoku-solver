@@ -40,7 +40,7 @@ python3 sudoku_gui_v3.py
 2. A window will appear with a 9x9 Sudoku grid and a "Solve" button. Clicking the button will attempt to solve the puzzle.
 
 ## File Structure
-- **sudoku_game.py:** Main file to run the Sudoku game with a GUI using Pygame.
+- **sudoku_gui_v3.py:** Main file to run the Sudoku game with a GUI using Pygame.
 - **sudoku_utils.py:** Contains the utility functions for checking the safety of a number and solving the Sudoku using backtracking.
 - **sudoku_config.py:** Holds the board configuration and color settings.
 
