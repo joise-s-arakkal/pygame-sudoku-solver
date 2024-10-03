@@ -46,11 +46,13 @@ python3 sudoku_gui_v3.py
 
 ## Screenshots
 
+![Sudoku Solver](https://github.com/joise-s-arakkal/pygame-sudoku-solver/blob/main/sudoku_img.PNG)
+
 ## How It Works
 - The Sudoku board is drawn using Pygame.
 - The solve_sudoku() function uses a backtracking algorithm to solve the puzzle.
 - When the "Solve" button is pressed, the board gets solved in real-time, updating the display.
 
-## License
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This project is licensed under the MIT License - see the LICENSE file for details.
    
